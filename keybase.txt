@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/lucrecenaess
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lucynaess.github.io
+  * I am lucrecenaess (https://keybase.io/lucrecenaess) on keybase.
+  * I have a public key ASDEqGvrJu1CsBGZ9ldkf7g7odyBPtEQ1MDWh8c-c7lOuwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01016272aa7c8b30a15c838665b519103ef5784926d1760f5e62eaec142fd3fc96550a",
+            "host": "keybase.io",
+            "kid": "0120c4a86beb26ed42b01199f657647fb83ba1dc813ed110d4c0d687c73e73b94ebb0a",
+            "uid": "9cb447d171cd139af25530aab0212d19",
+            "username": "lucrecenaess"
+        },
+        "service": {
+            "hostname": "lucynaess.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.21"
+    },
+    "ctime": 1493357041,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1493356889,
+        "hash": "c2753efa3f8f7699afabf7636f0a1efbd3073b6fd43f966c75cdb653d88195e8c8debe7b8d4c7ad080c9ac4a401edaa6674023b451cbff5782e28517421d8af6",
+        "seqno": 1042792
+    },
+    "prev": "d487023b1560184b70be2a2d510d85a28f88c8bef28c9da371ecf9ec758c0927",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxKhr6ybtQrARmfZXZH+4O6HcgT7RENTA1ofHPnO5TrsKp3BheWxvYWTFAwF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNjI3MmFhN2M4YjMwYTE1YzgzODY2NWI1MTkxMDNlZjU3ODQ5MjZkMTc2MGY1ZTYyZWFlYzE0MmZkM2ZjOTY1NTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzRhODZiZWIyNmVkNDJiMDExOTlmNjU3NjQ3ZmI4M2JhMWRjODEzZWQxMTBkNGMwZDY4N2M3M2U3M2I5NGViYjBhIiwidWlkIjoiOWNiNDQ3ZDE3MWNkMTM5YWYyNTUzMGFhYjAyMTJkMTkiLCJ1c2VybmFtZSI6Imx1Y3JlY2VuYWVzcyJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibHVjeW5hZXNzLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIxIn0sImN0aW1lIjoxNDkzMzU3MDQxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTMzNTY4ODksImhhc2giOiJjMjc1M2VmYTNmOGY3Njk5YWZhYmY3NjM2ZjBhMWVmYmQzMDczYjZmZDQzZjk2NmM3NWNkYjY1M2Q4ODE5NWU4YzhkZWJlN2I4ZDRjN2FkMDgwYzlhYzRhNDAxZWRhYTY2NzQwMjNiNDUxY2JmZjU3ODJlMjg1MTc0MjFkOGFmNiIsInNlcW5vIjoxMDQyNzkyfSwicHJldiI6ImQ0ODcwMjNiMTU2MDE4NGI3MGJlMmEyZDUxMGQ4NWEyOGY4OGM4YmVmMjhjOWRhMzcxZWNmOWVjNzU4YzA5MjciLCJzZXFubyI6MTAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAzXV/nIQmH1MxDPa3tIQ2g8KdTHJzqpp/wqKJt0m2PwMfB6Zlz73E5nxOqnkL798mpo6knmCGY8hoFRkmlJQMD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINgfylo+B+RFNvMqjj88zTwNrTzUdJkMoGZ2cKY14Speo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lucrecenaess
+
+==================================================================
